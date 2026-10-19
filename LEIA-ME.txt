@@ -1,0 +1,6 @@
+PROJETO FONTE - OnePro Dark Aplicador
+Abra esta pasta no Android Studio, aguarde o Gradle e selecione Build > Build APK(s).
+Instale também o pacote de ícones OnePro Dark no celular.
+O app lê o appfilter.xml do pacote instalado, identifica apps e pede ao launcher Samsung para fixar atalhos um por vez. Android exige confirmação; não há aplicação silenciosa em massa na One UI padrão.
+Este projeto não inclui nem redistribui os arquivos do APK fornecido.
+Não é um APK compilado: o ambiente de criação não possui o Android SDK/Gradle.

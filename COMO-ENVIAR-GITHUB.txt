@@ -1,0 +1,14 @@
+ONEPRO DARK APLICADOR - ENVIO PELO CELULAR
+
+1. Extraia este ZIP no celular. O GitHub NAO descompacta ZIP enviado como arquivo.
+2. Abra seu repositorio no GitHub e toque em 'uploading an existing file'.
+3. Envie os arquivos do projeto mantendo as pastas (incluindo .github/workflows/gerar-apk.yml).
+   ATENCAO: o envio pelo navegador do celular pode nao preservar pastas. Se isso acontecer,
+   crie os arquivos diretamente no GitHub com o caminho correspondente.
+4. Confirme em 'Commit changes'.
+5. Abra a aba Actions > Gerar APK Android > Run workflow (se necessario).
+6. Apos a execucao concluir, abra o resultado e baixe 'OneProDarkAplicador-APK'.
+
+AVISO: projeto de teste nao validado em aparelho real. O Android/Samsung pode exigir
+confirmacao individual de atalhos; nao substitui os icones do sistema automaticamente.
+O pacote OnePro Dark precisa estar instalado no telefone.
